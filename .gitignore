@@ -8,21 +8,7 @@
 .buildlog/
 .history
 .svn/
-#cmake
-CMakeLists.txt
-CMakeLists.txt.user
-CMakeLists.txt
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-
+migrate_working_dir/
 
 # IntelliJ related
 *.iml
@@ -45,9 +31,6 @@ _deps
 .pub-cache/
 .pub/
 /build/
-
-# Web related
-lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
