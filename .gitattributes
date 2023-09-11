@@ -1,6 +1,1 @@
-# Do not detect
-*.cc -linguist-detectable = false
-*.cpp -linguist-detectable = false
-
-# Detect
-*.dart linguist-detectable = true
+*.dart  text eol=lf
