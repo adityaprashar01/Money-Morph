@@ -41,3 +41,9 @@ configure        eol=lf
 *.cmake          whitespace=tab-in-indent
 *.rst            whitespace=tab-in-indent conflict-marker-size=79
 *.txt            whitespace=tab-in-indent
+# Do not detect
+*.cc -linguist-detectable
+*.cpp -linguist-detectable
+
+# Detect
+*.dart linguist-detectable
