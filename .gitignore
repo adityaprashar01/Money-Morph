@@ -9,6 +9,7 @@
 .history
 .svn/
 #cmake
+CMakeLists.txt
 CMakeLists.txt.user
 CMakeLists.txt
 CMakeCache.txt
