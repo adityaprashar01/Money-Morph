@@ -1,2 +1,6 @@
-README.md linguist-generated=true
-*.md linguist-language=Dart
+# Do not detect
+*.cc -linguist-detectable
+*.cpp -linguist-detectable
+
+# Detect
+*.dart linguist-detectable
